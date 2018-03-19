@@ -4,7 +4,9 @@ Huntt est un thème [créé en 2015](https://blog.themeskingdom.com/hunting-for-
 
 ## Typographie
 
-Fonte par défaut: [Hans Kendrick](https://www.behance.net/gallery/13659815/Hans-Kendrick-Typeface), par Alfredo Marco Pradil.
+Fonte par défaut: [Hans Kendrick](https://www.behance.net/gallery/13659815/Hans-Kendrick-Typeface), par Alfredo Marco Pradil. "A simple, geometric and versatile typeface inspired by Futura and Avenir."
+
+![](img/hk-typeface.jpg)
 
 Le thème inclut trois variantes:
 Regular (weight: 400)

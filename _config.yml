@@ -1,0 +1,6 @@
+# Site settings
+title: Documentation Thème Eris
+theme: jekyll-theme-cayman
+url: "https://cours-web.ch/theme-eris/"
+
+# include: ["_pages"]
